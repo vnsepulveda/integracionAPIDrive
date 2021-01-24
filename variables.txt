@@ -1,0 +1,5 @@
+Datos BD
+usuario = 'root'
+contrasena = 
+basedatos = segcotizacion
+ruta_credencial = C:/Users/victo/Documents/scrapinggmail/
